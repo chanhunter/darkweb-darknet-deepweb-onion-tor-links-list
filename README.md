@@ -6,4 +6,4 @@ https://www.torproject.org/download/
 
 Then, open it to browse one of the onion hidden services listed on this page: 
 
-https://aiw.neocities.org
+https://thehidden-wiki.org/wiki/index.php/Main_Page
