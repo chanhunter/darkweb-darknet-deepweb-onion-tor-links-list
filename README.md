@@ -9,7 +9,7 @@ You will find there a lot of links ending with .onion
 If you want to visit a .onion address, you need to download and install the official TOR Browser:
 https://www.torproject.org/download/
 
-Then, open it to browse the Official Hidden Wiki:
+Then, open it to browse pages suchas this one:
 http://alice4n4kd5gga3xqggygi6r7q7l7bb2wg5lcykh22ilxomk2jmpcbyd.onion/links/
 
 If this page loads successfully, you will be able to browse any of hidden services listed.
