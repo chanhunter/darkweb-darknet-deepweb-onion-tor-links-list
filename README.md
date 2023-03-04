@@ -2,7 +2,7 @@
 darkweb darknet deepweb onion tor links list topiclinks
 
 This is one directory with many hidden services:
-http://72exdqgih4x4lmxg46unx7fucyfuo2pivgbyozrmohmhkef64p4osiad.onion/
+http://alice4n4kd5gga3xqggygi6r7q7l7bb2wg5lcykh22ilxomk2jmpcbyd.onion/links/
 
 You will find there a lot of links ending with .onion
 
@@ -10,8 +10,7 @@ If you want to visit a .onion address, you need to download and install the offi
 https://www.torproject.org/download/
 
 Then, open it to browse the Official Hidden Wiki:
-http://72exdqgih4x4lmxg46unx7fucyfuo2pivgbyozrmohmhkef64p4osiad.onion/
-
+http://alice4n4kd5gga3xqggygi6r7q7l7bb2wg5lcykh22ilxomk2jmpcbyd.onion/links/
 
 If this page loads successfully, you will be able to browse any of hidden services listed.
 
